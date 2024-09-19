@@ -1,10 +1,26 @@
-## Hi there 👋
-This is Purna Chandra Rao Vellalacheruvu, Welcome to my GitHub Profile. Here you can see all the projects that I worked on various technologies. 
+<h1 align="center">Hi 👋, I'm Purna Chandra Rao Vellalacheruvu</h1>
+<h3 align="center">A passionate Data Analyst with 3+ yeasr of experience in tranforming data into actionable insights.</h3>
 
-As a passionate Data Analyst with 3 years of experience, I thrive on transforming complex data into actionable insights that drive strategic decision-making. My expertise lies in leveraging statistical analysis, and data visualization to uncover trends and patterns that help organizations achieve their goals. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=purna29&label=Profile%20views&color=0e75b6&style=flat" alt="purna29" /> </p>
 
-With a Master's degree in Computer Science and hands-on experience in the IT industry, I have developed a robust skill set in data analysis and visualization. Proficient in Python, SQL, and Power BI, I specialize in identifying trends, optimizing operations, and generating impactful reports that support business growth and enhance customer experiences.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purna29" alt="purna29" /></a> </p>
 
-Throughout my career, I've worked on a variety of projects. This experience has honed my ability to tackle complex data challenges and deliver meaningful results. I am committed to continuous learning and staying at the forefront of data analytics trends and technologies. My goal is to apply my skills to help organizations leverage their data to achieve their strategic objectives and drive growth.
+- 🔭 I’m currently working on **Veeha IT Solutions LLC**
 
-Please feel free to contact me via LinkedIn. 
+- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+
+- 📫 How to reach me **vellalacheruvu.purna.29@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/purna vellalacheruvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purna vellalacheruvu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purna29&show_icons=true&locale=en&layout=compact" alt="purna29" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purna29&show_icons=true&locale=en" alt="purna29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purna29&" alt="purna29" /></p>
