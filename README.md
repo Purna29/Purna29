@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purna29" alt="purna29" /></a> </p>
 
-- 🔭 I’m currently working on **Veeha IT Solutions LLC**
+- 🔭 I’m currently working at **Veeha IT Solutions LLC**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
